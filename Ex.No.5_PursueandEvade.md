@@ -1,6 +1,6 @@
 # Ex.No: 5  Implementation of Steering behaviour-Pursue and Evade in Unity
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:   15.10.2025                                                                         
+### REGISTER NUMBER : 212223240117
 ### AIM: 
 To write a program to simulate the process of Pursue and Evade behavior in Unity using NavigationMeshAgent. 
 ### Algorithm:
@@ -107,6 +107,8 @@ public class Pursuer: MonoBehaviour
     
 ```
 ### Output:
+<img width="920" height="427" alt="image" src="https://github.com/user-attachments/assets/6366f121-f196-466d-bbfe-f5dab35ac278" />
+
 
 
 
